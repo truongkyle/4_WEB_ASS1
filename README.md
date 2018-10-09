@@ -8,7 +8,7 @@
     * Không bị trôi icon: [Sticky Navbar](https://www.w3schools.com/howto/howto_js_navbar_sticky.asp) và [Sticky Social Bar](https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp)
     * Hiệu ứng cho các chức năng của Icon `Top`, `Thể loại`: [Hover Sidenav Buttons](https://www.w3schools.com/howto/howto_css_sidenav_buttons.asp)
     * Button về đầu trang: [Scroll To Top Button](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
-3. Một số hiệu ứng hay
+3. Một số hiệu ứng hay :smile:
     - [Side navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp)
     - hiện khi Scroll `Xuống`: [Slide Down Bar on Scroll](https://www.w3schools.com/howto/howto_js_navbar_slide.asp)
     - Hiên khi Scroll `Lên`: [Hide Navbar on Scroll](https://www.w3schools.com/howto/howto_js_navbar_slide.asp)
